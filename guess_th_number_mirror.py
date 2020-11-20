@@ -2,6 +2,7 @@ def get_user_answer(number):
 
     while True:
         result = input(f'Is the number greater than {number}? (y/n): ')
+        result = result.lower()
 
         if result =='y':
             return True
