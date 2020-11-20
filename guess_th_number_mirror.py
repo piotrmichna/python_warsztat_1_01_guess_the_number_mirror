@@ -26,6 +26,7 @@ def find_user_number():
         else:
             max_number=secret_number
 
+    secret_number = int((max_number - min_number) / 2 + min_number)
     print(f'The top secret number is {secret_number}')
 
 if __name__ == '__main__':
