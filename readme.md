@@ -1,3 +1,3 @@
 __Coderslab__
 
-_warstat 1 zadanie 1 wersja odwrócona_
+_warsxtat 1, zadanie 1, wersja odwrócona_
